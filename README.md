@@ -31,4 +31,4 @@ Send `/help` to [@JARCHIPANEL_BOt](https://telegram.me/JARCHIPANEL_BOT) in teleg
 
  * [funder (ali)](https://telegram.me/apekt)
 
-### Powered by [iTeam](https://telegram.me/apektme)
+### Powered by [APEKT](https://telegram.me/apektme)
