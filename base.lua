@@ -1,7 +1,7 @@
 # apekt
 serpent = (loadfile "serpent.lua")()
 tdcli = dofile('jarchi.lua')
-require 'tabchi'
+require 'jarchi'
 redis = (loadfile "redis.lua")()
 tabchi_id = "jarchi-ID"
 
@@ -13,5 +13,5 @@ function dl_cb (arg, data)
 end
 
 function tdcli_update_callback(data)
-  update(data, tabchi_id)
+  update(data, jarchi_id)
 end
